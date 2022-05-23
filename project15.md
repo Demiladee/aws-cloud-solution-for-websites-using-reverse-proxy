@@ -45,3 +45,15 @@
 ![](images/elasticipnatgateway7.png)
 
 ![](images/privatertbnatgateway777.png)
+
+- created external application load balancer (extALB), bastion, datalayer, internal ALB and nginx reverse proxy
+
+![](images/ACSbastionALB88.png)
+
+![](images/extALB8.png)
+
+![](images/intALBtonginx8888.png)
+
+![](images/securitygroupfornginxbastion888.png)
+
+![](images/webserverALBaccess88888.png)
