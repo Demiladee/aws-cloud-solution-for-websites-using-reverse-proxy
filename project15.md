@@ -92,3 +92,14 @@
 
 ![](images/rdssubnetgroup11.png)
 
+- edited configuration files - they are in the conf folder of this repo - to include necessary dns name, etc
+
+- installed ssl, ssl certificate, and edited the conf file for wordpress and tooling sites
+
+![](images/apacheWSsslinstallation12.png)
+
+![](images/apacheWSsslcertinfo12.png)
+
+![](images/apacheWSviedit112.png)
+
+![](images/apacheWSviedit12.png)
