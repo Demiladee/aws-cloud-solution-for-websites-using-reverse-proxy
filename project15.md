@@ -57,3 +57,15 @@
 ![](images/securitygroupfornginxbastion888.png)
 
 ![](images/webserverALBaccess88888.png)
+
+- registered a domain name 
+
+- created records of the domain on aws route53
+
+- created a certificate of the domain on aws certificate manager
+
+![](images/awscertificateroute53record9.png)
+
+![](images/awscertificate9.png)
+
+![](images/awscertificateissued9.png)
