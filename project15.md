@@ -69,3 +69,26 @@
 ![](images/awscertificate9.png)
 
 ![](images/awscertificateissued9.png)
+
+- created a database via amazon rds
+
+- created efs accesspoints for wordpress and tooling webservers
+
+- created the efs subnet mountpoints for both webservers
+
+![](images/databasecreation10.png)
+
+![](images/efsaccesspoint10.png)
+
+![](images/efssubnetmountpoint10.png)
+
+![](images/efssubnetmountpoint1010.png)
+
+- created rds key via amazon kms but was unable to use it because of the free tier setup
+
+- added the datalayer private subnets to the subnet configuration for the db
+
+![](images/acsrdskey11.png)
+
+![](images/rdssubnetgroup11.png)
+
