@@ -23,3 +23,25 @@
 ![](images/publicrtb4.png)
 
 ![](images/privatertb44.png)
+
+- associated the different rtbs to their respective subnets
+
+![](images/publicsubnettortb5.png)
+
+![](images/privatesubnettortb55.png)
+
+- added public rtb to igw
+
+![](images/editroutesinternetgatewaypublicrtb6.png)
+
+- created nat gateway
+
+- associated an elastic ip with the nat gateway
+
+- added nat gateway to private rtb
+
+![](images/natgatewayelasticip77.png)
+
+![](images/elasticipnatgateway7.png)
+
+![](images/privatertbnatgateway777.png)
