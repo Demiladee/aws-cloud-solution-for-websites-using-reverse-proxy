@@ -94,7 +94,27 @@
 
 - edited configuration files - they are in the conf folder of this repo - to include necessary dns name, etc
 
-- installed ssl, ssl certificate, and edited the conf file for wordpress and tooling sites
+- installed amazon efs-utils, ssl, ssl certificate, and edited the conf file for wordpress and tooling sites on apache
+
+![](images/nginxinstallationamazonefsutilsgitclone12.png)
+
+![](images/nginxinstallationrpmbuild12.png)
+
+![](images/nginxinstallationefsutilsinstallmake12.png)
+
+![](images/nginxinstallationchrony12.png)
+
+![](images/nginxinstallationepelrelease12.png)
+
+![](images/nginxinstallationmakerpm12.png)
+
+![](images/nginxinstallationremirepo12.png)
+
+![](images/nginxsetseboolconf12.png)
+
+![](images/nginxinstallationbuildmakerpmlast12.png)
+
+![](images/nginxinstallationsystemctlchrony121.png)
 
 ![](images/apacheWSsslinstallation12.png)
 
@@ -103,3 +123,42 @@
 ![](images/apacheWSviedit112.png)
 
 ![](images/apacheWSviedit12.png)
+
+- installed epel-release, remi repo and other dependencies on bastion instance
+
+![](images/bastioninstanceinstallation12.png)
+
+![](images/bastioninstanceinstallation121.png)
+
+![](images/bastioninstanceinstallation1212.png)
+
+![](images/bastioninstance12.png)
+
+- installed amazon efs-utils, epel-release, etc on nginx
+
+![](images/nginxinstallationamazonefsutilsgitclone12.png)
+
+![](images/nginxinstallationrpmbuild12.png)
+
+![](images/nginxinstallationefsutilsinstallmake12.png)
+
+![](images/nginxinstallationchrony12.png)
+
+![](images/nginxinstallationepelrelease12.png)
+
+![](images/nginxinstallationmakerpm12.png)
+
+![](images/nginxinstallationremirepo12.png)
+
+![](images/nginxsetseboolconf12.png)
+
+![](images/nginxinstallationbuildmakerpmlast12.png)
+
+![](images/nginxinstallationsystemctlchrony121.png)
+
+![](images/nginxinstallationsslcert12.png)
+
+![](images/nginxinstallationsslcert1212.png)
+
+![](images/nginxinstallationsslcertlist12.png)
+
