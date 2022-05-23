@@ -213,3 +213,31 @@
 ![](images/wordpresslaunchtemplatess13.png)
 
 ![](images/wordpresslaunchtemplateafterreverseconf13.png)
+
+- created auto scaling groups for the launch templates
+
+![](images/autoscalinggroup14.png)
+
+- checked target health of the launch templates to confirm they are healthy
+
+![](images/nginxtargethealth15.png)
+
+![](images/toolingtargethealth15.png)
+
+![](images/wordpresstargethealth15.png)
+
+- subdomains created off of the domain name
+
+![](images/toolingxwordpressroute53record15.png)
+
+- final result
+
+![](images/wordpressfinal16.png)
+
+![](images/wordpressfinal161.png)
+
+![](images/toolingfinal16.png)
+
+- infrastructure architecture of the setup
+
+![](images/awscloudinfraarchitecturelayout.png)
