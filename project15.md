@@ -162,3 +162,54 @@
 
 ![](images/nginxinstallationsslcertlist12.png)
 
+- created internal and external loadbalancers
+
+- set rules for the load balancers
+
+- created images of instances with the different configurations
+
+- created launch templates of the different images
+
+- created target groups of the launch templates
+
+- set some conf rules for reverse proxy (int alb) before launching wordpress
+
+![](images/ALBrules13.png)
+
+![](images/AMItargetgroup13.png)
+
+![](images/AMIwebservers13.png)
+
+![](images/AWSALB13.png)
+
+![](images/AWSALB131.png)
+
+![](images/AWSintALB13.png)
+
+![](images/AWSintALB131.png)
+
+![](images/intALBreverseproxyconfbeforewordpress13.png)
+
+![](images/bastionlaunchtemplate13.png)
+
+![](images/bastionlaunchtemplates13.png)
+
+![](images/bastionlaunchtemplatess13.png)
+
+![](images/nginxlaunchtemplate13.png)
+
+![](images/nginxlaunchtemplates13.png)
+
+![](images/nginxlaunchtemplatess13.png)
+
+![](images/toolinglaunchtemplate13.png)
+
+![](images/toolinglaunchtemplates13.png)
+
+![](images/toolinglaunchtemplatess13.png)
+
+![](images/wordpresslaunchtemplates13.png)
+
+![](images/wordpresslaunchtemplatess13.png)
+
+![](images/wordpresslaunchtemplateafterreverseconf13.png)
